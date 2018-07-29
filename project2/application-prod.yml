@@ -1,0 +1,7 @@
+
+db:
+  host: prodHost@project2
+  username: Prod DB Project2
+  
+user:
+  name: jasweens-prod-project2

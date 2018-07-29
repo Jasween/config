@@ -1,0 +1,7 @@
+
+db:
+  host: defaulthost
+  username: Default DB 
+  
+user:
+  name: jasweens-default 

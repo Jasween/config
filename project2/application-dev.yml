@@ -1,0 +1,7 @@
+
+db:
+  host: devhost@project2
+  username: Dev DB Project2
+  
+user:
+  name: jasweens-project2

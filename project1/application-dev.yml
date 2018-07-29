@@ -1,0 +1,7 @@
+
+db:
+  host: devhost
+  username: Dev DB 
+  
+user:
+  name: jasweens  
