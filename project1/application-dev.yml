@@ -1,7 +1,7 @@
 
 db:
-  host: devhost
-  username: Dev DB 
+  host: devhost@project1
+  username: Dev DB Project1
   
 user:
-  name: jasweens  
+  name: jasweens-project1
